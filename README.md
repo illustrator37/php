@@ -1,5 +1,8 @@
 # php
 funciones vasicas de PHP
+https://www.aulaclic.es/paginas-web/index.htm
+Documentacion Oficial: https://www.php.net/manual/es/index.php
+
 echo y print
 
 El código PHP no se muestra en la página. Por eso, si queremos escribir código HTML, debemos de hacerlo utilizando las funciones echo o print.
